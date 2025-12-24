@@ -1,4 +1,4 @@
-# Hi, this is Bella Fu's Github profile and study log ^.^ 
+# Hi, this is Bella's Github profile and study log ^.^ 
 
 
 growing: 
