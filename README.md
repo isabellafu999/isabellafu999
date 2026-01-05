@@ -2,5 +2,5 @@
 
 
 growing: 
-- github commands
-- docker use case 
+- docker use case
+ 
