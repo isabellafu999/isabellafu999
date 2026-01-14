@@ -1,4 +1,4 @@
-# Hi, this is Bella's study room {@^.^@} 
+# Hi, this is Bella's study room 
 
 
 growing: 
