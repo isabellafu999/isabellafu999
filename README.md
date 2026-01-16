@@ -2,5 +2,5 @@
 
 
 growing: 
-
- 
+- reinforcement learning
+- reinforcement learning from human feedback
