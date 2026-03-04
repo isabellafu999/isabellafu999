@@ -1,8 +1,14 @@
 # Hi, this is Bella's study room 
 
 
-projects:
- 
+healthcare AI project:
+
+
+llm training project:
+- web action LM: [repo]()
+
+llm application project:
+- hive: [repo]()
 
 selected study notes sharing:
 - machine learning from scratch: [repo](https://github.com/isabellafu999/machine_learning_from_scratch)
