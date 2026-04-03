@@ -2,10 +2,10 @@
 
 
 **medical AI project:**
-- survival-grounded clinical decision support system: repo
+- survival-grounded clinical decision support system: [repo](clinical_rag)
 
 **llm training project:**
-- web action LM: repo
+- web action LM: [repo](web_action_lm)
 
 **llm application project:**
 - hive: [repo](https://github.com/isabellafu999/hive)
